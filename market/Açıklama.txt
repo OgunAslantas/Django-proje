@@ -1,0 +1,2 @@
+# DjangoProje
+https://www.youtube.com/watch?v=qMrAFscMBBc&list=PLOkVupluCIjvSmREvqo7ERyUI1P2Seb64&index=3&ab_channel=JimShapedCoding; ders serisi takip edilerek hazırlanmıştır.
